@@ -1,2 +1,3 @@
+include ':blurkit-module'
 include ':app'
 rootProject.name = "BlurKit-Demo"
