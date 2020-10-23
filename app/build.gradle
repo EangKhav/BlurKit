@@ -1,6 +1,8 @@
 plugins {
     id 'com.android.application'
+    id 'maven-publish' // Apply this plugin at the top of your library build.gradle
 }
+
 
 android {
     compileSdkVersion 30
